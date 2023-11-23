@@ -6,4 +6,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://github.com/jennychavan/Coursera-test/tree/main/Assignment/module3)
+# To see the output [CLICK HERE](https://jennychavan.github.io/Coursera-test/Assignment/module3/index.html)
